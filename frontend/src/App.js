@@ -57,7 +57,7 @@ function App() {
 
   return (
     <div>
-      <BrowserRouter>
+      <BrowserRouter basename='/'>
         <ScrollToTop />
         <Navbar />
         <Modalpledge />
