@@ -125,6 +125,7 @@ function Footer() {
                   />
                 </div>
                 <div class="gallery-img">
+                  
                   <img
                     src={process.env.PUBLIC_URL + "/nim.jpg"}
                     alt=""
